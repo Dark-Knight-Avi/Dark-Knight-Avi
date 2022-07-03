@@ -5,7 +5,7 @@ Certified Full-Stack Developer | MERN-Stack Developer | Django Developer
 ------------------------------------------------------------------------
 
 * 🌍  I'm based in Bangalore
-* 🖥️  See my portfolio at [My Resume](http://drive.google.com/file/d/1GSsv0U7jzG4v4-qmS9b1x7Jey4G__THU/view?usp=sharing)
+* 🖥️  See my portfolio at [My Resume](https://drive.google.com/file/d/1ljQXJvtIdHU8llPna6-YpBWfck6DVkIs/view?usp=sharing)
 * ✉️  You can contact me at [aritra.karmakar9749@gmail.com](mailto:aritra.karmakar9749@gmail.com)
 * 🧠  I'm learning React Js
 * 🤝  I'm open to collaborating on Django based projects
