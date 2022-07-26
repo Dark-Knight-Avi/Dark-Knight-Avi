@@ -44,6 +44,8 @@ Certified Full-Stack Developer | MERN-Stack Developer | Django Developer
 
 <a href="http://www.github.com/dark-knight-avi"><img src="https://github-readme-stats.vercel.app/api?username=dark-knight-avi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dark-knight-avi's GitHub stats" /></a>
 
+<a href="http://www.github.com/Dark-Knight-Avi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dark-Knight-Avi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="http://www.github.com/dark-knight-avi"><img src="https://activity-graph.herokuapp.com/graph?username=dark-knight-avi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/dark-knight-avi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-knight-avi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
